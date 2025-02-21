@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Zm2IaiCUCEyoODU0m0c4MQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="nytimes.com/search" CVScreenId="e9743324-b246-46df-9620-f65fc41a68ed" DesignTimeRectangle="670, 712, 598, 58" DesignTimeScaleFactor="1.25" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;button&amp;gt;div' parentid='complianceOverlay' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl type='' parentid='complianceOverlay' tag='DIV' class='css-t0f7tz' aaname='' check:innerText='Continue' /&gt;" Guid="81910c3b-d906-4fb2-81ed-3c4a2b66c455" ScopeSelectorArgument="&lt;html app='chrome.exe' title='The New York Times - Search' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="a44922c2369b94643e5f168b04270c74.png" xmlns="">0HbzlvsocB0San6z9Ir5K9w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="5-Q5JX94CU6_ZWg11gOhzw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="nytimes.com/search" DesignTimeRectangle="619, 374, 237, 457" DesignTimeScaleFactor="1.25" ElementType="List" FuzzySelectorArgument="&lt;webctrl parentid='site-content' tag='UL' type='' class='css-1urh7kn' aaname='' /&gt;" Guid="f30d642c-01b5-4783-98e6-80e0d601c9f1" ScopeSelectorArgument="&lt;html app='chrome.exe' title='The New York Times - Search' /&gt;" SearchSteps="FuzzySelector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="e8ff436672c062b670b688b6c9a41ba4.png" xmlns="">069aDxjiu8ki1t6XCRpbKTg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

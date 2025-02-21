@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ns3Nifab_0-M3sBh0xFGCQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="nytimes.com/search" CVScreenId="2ebdc5ec-4ae2-4fd6-95b3-16ab66b3e89a" CvElementArea="1632, 883, 274, 44" CvTextArea="1731, 896, 74, 19" CvTextArgument="Reject all" CvType="Button" DesignTimeRectangle="1634, 887, 270, 40" DesignTimeScaleFactor="1.25" ElementType="Button" FullSelectorArgument="&lt;webctrl parentid='fides-button-group' tag='BUTTON' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='fides-button-group' tag='BUTTON' type='button' class='fides-banner-button fides-banner-button-primary fides-reject-all-button' aaname='Reject all' check:innerText='Reject all' /&gt;" Guid="a7928810-22fa-4387-b2b3-a919542c1f57" ScopeSelectorArgument="&lt;html app='chrome.exe' title='The New York Times - Search' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="b8d1249dfd209bad1e4b3f30224ba640.png" xmlns="">0V_kDOij8gUKQd7o2wZ95Xg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

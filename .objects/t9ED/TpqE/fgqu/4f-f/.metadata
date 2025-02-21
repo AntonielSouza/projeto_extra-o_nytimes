@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Reject all",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "4f-fkBD2302HregKWfxdgA",
+  "Reference": "zGMGjkh7wkG3jK7uuH0r9Q/4f-fkBD2302HregKWfxdgA",
+  "ParentRef": "zGMGjkh7wkG3jK7uuH0r9Q/fgquB-8IxEaiG4l08WRffA",
+  "Created": "2025-02-21T04:27:04.8561014Z",
+  "Updated": "2025-02-21T04:27:04.8561014Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

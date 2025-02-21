@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Refine results via Sect…(2)",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "5ctk1U8rKUec1po_419-Ng",
+  "Reference": "zGMGjkh7wkG3jK7uuH0r9Q/5ctk1U8rKUec1po_419-Ng",
+  "ParentRef": "zGMGjkh7wkG3jK7uuH0r9Q/JT764Pam5EO1Aq-nq9b6fA",
+  "Created": "2025-02-21T01:23:45.6559951Z",
+  "Updated": "2025-02-21T01:23:45.6559951Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

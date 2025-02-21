@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Reject all(2)",
+  "Type": "Element",
+  "Id": "yAmdXVgFrkyqA5Ftm28BKg",
+  "Reference": "zGMGjkh7wkG3jK7uuH0r9Q/yAmdXVgFrkyqA5Ftm28BKg",
+  "ParentRef": "zGMGjkh7wkG3jK7uuH0r9Q/fgquB-8IxEaiG4l08WRffA",
+  "Created": "2025-02-21T04:30:51.9588213Z",
+  "Updated": "2025-02-21T04:30:51.9588213Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

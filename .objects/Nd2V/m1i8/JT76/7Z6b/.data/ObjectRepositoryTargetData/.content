@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="yRkqAABa4EW4rW7KzKUOug" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="nytimes.com/search" CVScreenId="a4a93067-9e4f-41b3-ae88-9c7abbfa77d1" CvElementArea="629, 433, 20, 19" CvTextArea="659, 436, 53, 13" CvTextArgument="Artes 3" CvType="CheckBox" DesignTimeRectangle="619, 422, 236, 43" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' class='css-1a8ayg6' tag='LABEL' aaname='' check:innerText='Artes 3' /&gt;" Guid="4fb856a1-ccc6-4238-a7b8-ee5150f51548" ScopeSelectorArgument="&lt;html app='chrome.exe' title='The New York Times - Pesquisar' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="319784ba143c87758274bac700c35fc9.png" xmlns="">0qtfs5H63fEO768fc-7_ZhQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

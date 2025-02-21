@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="DcGTYdq7fU6TWhwWo-gfMw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="nytimes.com/search" CVScreenId="3f94b36d-a731-4fc5-be14-bd85e9c98388" CvElementArea="629, 433, 20, 19" CvTextArea="659, 436, 42, 13" CvTextArgument="Arts 3" CvType="CheckBox" DesignTimeRectangle="619, 422, 236, 43" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' class='css-1a8ayg6' tag='LABEL' aaname='' check:innerText='Arts3' /&gt;" Guid="baacce5b-3b6c-44c6-a532-90cae89ae7dd" ScopeSelectorArgument="&lt;html app='chrome.exe' title='The New York Times - Search' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="3f94b36d-a731-4fc5-be14-bd85e9c98388" CvTextArea="659, 436, 42, 13" CvTextArgument="Arts 3" CvType="Text" DesignTimeRectangle="661, 436, 41, 18" FuzzySelectorArgument="&lt;webctrl aaname='Arts' parentid='site-content' tag='SPAN' type='' class='css-fa8ov6' check:innerText='Arts3' /&gt;" Guid="88552c50-e54f-4716-8fba-e45911af982f" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="2dbfde550de1624072c16a3317d326af.png" xmlns="">0tIIOeaPRm029hVYmGoalNQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

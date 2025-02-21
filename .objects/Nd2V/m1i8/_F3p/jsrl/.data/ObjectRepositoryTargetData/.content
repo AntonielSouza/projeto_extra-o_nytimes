@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Uyt09FhIoUOSTDCaStcRLw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="nytimes.com/search" CVScreenId="0bcd2d15-0a8c-40f3-8676-f2e46ba99b19" CvElementArea="514, 343, 24, 21" CvTextArea="431, 346, 78, 17" CvTextArgument="Date Range" CvType="ArrowButton" DesignTimeRectangle="419, 330, 125, 48" DesignTimeScaleFactor="1.25" ElementType="Button" FuzzySelectorArgument="&lt;webctrl parentid='site-content' tag='BUTTON' type='button' class='css-1ftrdcd' aaname='Refine results via Date Range' check:innerText='Refine results via&amp;#xA;Date Range' /&gt;" Guid="2a45b37d-bb6a-4e13-a3b0-3256d8014c97" ScopeSelectorArgument="&lt;html app='chrome.exe' title='The New York Times - Search' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="e288f531c40fc1fe8fcbd16f94b6adad.png" xmlns="">0S4iRawRUX0qnIErwh3DOyg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

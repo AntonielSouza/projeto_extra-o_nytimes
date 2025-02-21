@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="GHtbJjSRkUa1UakZ6_syGg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="nytimes.com/search" CVScreenId="52fb505e-40b8-41c4-a73a-7fa16f409105" DesignTimeRectangle="670, 712, 598, 58" DesignTimeScaleFactor="1.25" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;button&amp;gt;div' parentid='complianceOverlay' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl type='' parentid='complianceOverlay' tag='DIV' class='css-t0f7tz' aaname='' check:innerText='Continue' /&gt;" Guid="7ec8e6a0-208b-4bb0-84fe-b7d4435eb6d7" ScopeSelectorArgument="&lt;html app='chrome.exe' title='The New York Times - Search' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="bddb6e7db51825c5facdc13bf695ccaa.png" xmlns="">07cLJJMYOgEG7hEkVV_TLPw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

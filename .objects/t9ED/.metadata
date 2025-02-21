@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome The New York Times - Breaking News, US(2)",
+  "Type": "App",
+  "Id": "t9EDN8vol0Wr_oW092tkjA",
+  "Reference": "zGMGjkh7wkG3jK7uuH0r9Q/t9EDN8vol0Wr_oW092tkjA",
+  "Created": "2025-02-21T04:27:04.5571537Z",
+  "Updated": "2025-02-21T04:27:04.5571537Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
